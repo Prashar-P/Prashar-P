@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Prashar-P
+👋 Hi, I’m @Prashar-P
 
-- A recent graduate in Computer Science, interested in developing and designing software.
+A recent graduate in Computer Science, interested in developing and designing software.
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn - Priya Prashar](https://www.linkedin.com/in/priya-prashar-4801/)
