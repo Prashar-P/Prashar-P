@@ -2,9 +2,10 @@
 
 A recent graduate in Computer Science, interested in developing and designing software.
 
-LinkedIn - Priya Prashar](https://www.linkedin.com/in/priya-prashar-4801/)
 
-Behance - Priya Prashar](https://www.behance.net/Prashar-P)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn - Priya Prashar](https://www.linkedin.com/in/priya-prashar-4801/)
+
+[![Behance] Behance - Priya Prashar](https://www.behance.net/Prashar-P)
 
 Keep an eye on this page! Setting up and Refining projects for showcase...
 
